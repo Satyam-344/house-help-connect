@@ -48,3 +48,10 @@ coverage/
 .cache/
 .vercel
 .render
+
+# Claude local-only files (never push to GitHub)
+CLAUDE.md
+memory.md
+logs.md
+rules.md
+memory/
