@@ -186,11 +186,6 @@ node scripts/makeAdmin.js your@email.com
 |---|---|---|
 | Browse categories and search workers | Filter by category, city, rating | View profile, book, leave reviews |
 
----
-
-## License
-
-MIT License — feel free to use this project for learning or personal use.
 
 ---
 
