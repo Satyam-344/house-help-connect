@@ -195,5 +195,4 @@ MIT License — feel free to use this project for learning or personal use.
 ---
 
 **Developer:** Satyam Srivastava  
-**Contact:** ishansri13.work@gmail.com  
 **GitHub:** [Satyam-344](https://github.com/Satyam-344)
